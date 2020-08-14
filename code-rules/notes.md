@@ -8,3 +8,6 @@ https://en.wikipedia.org/wiki/Software_metric
 
 https://en.wikipedia.org/wiki/Software_package_metrics
 
+https://www.jacoco.org/jacoco/trunk/doc/counters.html
+
+https://siom79.github.io/japicmp/
