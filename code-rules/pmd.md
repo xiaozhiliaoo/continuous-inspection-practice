@@ -9,4 +9,6 @@ https://maven.apache.org/plugins/maven-pmd-plugin/index.html
 CPD:https://pmd.github.io/latest/pmd_userdocs_cpd.html
 
 CPD：copy-paste-detector
+https://maven.apache.org/plugins/maven-pmd-plugin/cpd-mojo.html
+
 PMD：Programming Mistake Detector

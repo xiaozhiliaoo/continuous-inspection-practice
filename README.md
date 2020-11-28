@@ -1,2 +1,19 @@
 # continuous-inspection-practice
-sonar in action,code static analysis, p3c,sonar lint practice,findBugs. improve code,design quality
+
+Focus on **continous inspection** phase of continuous integration.
+
+include sonar , sonar lint, code static analysis, p3c,   findBugs. spotBugs. PMD,CPD and more.  improve code,design quality.
+
+
+
+## continuous integration  process
+
+![](/book/CI-Process.png)
+
+
+
+
+
+## project foucs on continuous inspection
+
+![](/book/CI-Process-CI.png)

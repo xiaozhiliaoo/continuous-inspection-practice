@@ -6,3 +6,5 @@ https://javancss.github.io/
 
 http://www.mojohaus.org/javancss-maven-plugin/index.html
 
+DEMO:http://www.mojohaus.org/javancss-maven-plugin/reports/javancss-report.html
+
