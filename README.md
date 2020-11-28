@@ -8,7 +8,7 @@ include sonar , sonar lint, code static analysis, p3c,   findBugs. spotBugs. PMD
 
 ## continuous integration  process
 
-![](/book/CI-Process.png)
+![avatar](/book/CI-Process.png)
 
 
 
@@ -16,4 +16,4 @@ include sonar , sonar lint, code static analysis, p3c,   findBugs. spotBugs. PMD
 
 ## project foucs on continuous inspection
 
-![](/book/CI-Process-CI.png)
+![avatar](/book/CI-Process-CI.png)
