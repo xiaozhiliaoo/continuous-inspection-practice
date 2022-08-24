@@ -1,0 +1,1 @@
+http://www.mojohaus.org/cobertura-maven-plugin/
